@@ -21,7 +21,7 @@ public class NthFibonacciNumber{
 	public static void main(String[] args){
 		
 		System.out.print("Enter Nth Number : ");
-		System.out.println("\nOutput : "+ new NthFibonacciNumber().findNthFibonacciNumber(new java.util.Scanner(System.in).nextInt()));
+		System.out.println("Output : "+ new NthFibonacciNumber().findNthFibonacciNumber(new java.util.Scanner(System.in).nextInt()));
 		
 	}
 	
